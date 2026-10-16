@@ -1,0 +1,15 @@
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.AssemblyInfoInputs.cache
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.AssemblyInfo.cs
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\bin\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.exe
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\bin\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.deps.json
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\bin\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.runtimeconfig.json
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\bin\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.dll
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\bin\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.pdb
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.dll
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\refint\Bai2QLKho&XuatBaoCao.dll
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.pdb
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKho&XuatBaoCao.genruntimeconfig.cache
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\ref\Bai2QLKho&XuatBaoCao.dll
+D:\LT .Net\Bai2QLKho&XuatBaoCao\Bai2QLKho&XuatBaoCao\obj\Debug\net10.0-windows\Bai2QLKh.768EE0D3.Up2Date
