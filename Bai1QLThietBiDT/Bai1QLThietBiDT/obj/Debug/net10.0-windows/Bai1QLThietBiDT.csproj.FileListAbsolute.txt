@@ -1,0 +1,17 @@
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\bin\Debug\net10.0-windows\Bai1QLThietBiDT.exe
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\bin\Debug\net10.0-windows\Bai1QLThietBiDT.deps.json
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\bin\Debug\net10.0-windows\Bai1QLThietBiDT.runtimeconfig.json
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\bin\Debug\net10.0-windows\Bai1QLThietBiDT.dll
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\bin\Debug\net10.0-windows\Bai1QLThietBiDT.pdb
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.Device.resources
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.csproj.GenerateResource.cache
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.AssemblyInfoInputs.cache
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.AssemblyInfo.cs
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.dll
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\refint\Bai1QLThietBiDT.dll
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.pdb
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLThietBiDT.genruntimeconfig.cache
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\ref\Bai1QLThietBiDT.dll
+D:\LT .Net\Bai1QLThietBiDT\Bai1QLThietBiDT\obj\Debug\net10.0-windows\Bai1QLTh.47407BA5.Up2Date
